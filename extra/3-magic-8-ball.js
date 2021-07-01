@@ -42,11 +42,41 @@
     Outlook not so good.
     Very doubtful.
 */
-
 // This should log "The ball has shaken!"
 // and return the answer.
+// let veryPositive= ["It is certain.",
+//  " It is decidedly so.",
+//  " Without a doubt.",
+//  " Yes - definitely.",
+//  " You may rely on it."];
+//  let positive= ["As I see it, yes.",
+//  "   Signs point to yes.",
+//  "  Most likely.",
+//  " Outlook good.",
+//  "    Yes."];
+//  let negative = [" Reply hazy, try again.",
+//  " Ask again later.",
+//  " Better not tell you now.",
+//  "Cannot predict now."
+// ,"Concentrate and ask again."];
+// let veryNegative = ["Don't count on it.", 
+// " Don't count on it.",
+// "My sources say no.",
+// "Outlook not so good.",
+// "Very doubtful."];
 function shakeBall() {
   //Write your code in here
+  // let randomArray= Math.floor(Math.random() * (6)) + 1;
+  // if (randomArray==1){//VeryPositive Array
+  //   let RandomArrayString =veryPositive[Math.floor(Math.random() * (veryPositive.length - veryPositive[0] + 1)) + veryPositive[0]];
+  // }else if (randomArray==2){//positive Array
+  //   let RandomArrayString =positive[Math.floor(Math.random() * (positive.length - positive[0] + 1)) + positive[0]];
+  // }else if (randomArray==3){//negative Array
+  //   let RandomArrayString =negative[Math.floor(Math.random() * (negative.length - veryPositive[0] + 1)) + negative[0]];
+  // }else if (randomArray==3){//veryNegative Array
+  //   let RandomArrayString =veryNegative[Math.floor(Math.random() * (veryNegative.length - veryNegative[0] + 1)) + veryNegative[0]];
+  // }
+  // console.log(RandomArrayString);
 }
 
 /* 
